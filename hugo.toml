@@ -1,0 +1,11 @@
+baseURL = 'https://sholok404.github.io/'
+languageCode = 'en-us'
+title = 'OC Blackadder'
+theme = 'ananke'
+
+[params]
+	site_logo = "img/glider.svg"
+
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://www.instagram.com/sikandar_i_azam"
